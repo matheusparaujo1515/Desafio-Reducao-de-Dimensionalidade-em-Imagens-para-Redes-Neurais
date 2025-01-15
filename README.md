@@ -1,1 +1,2 @@
-# Desafio---Redu-o-de-Dimensionalidade-em-Imagens-para-Redes-Neurais
+
+Redução de Dimensionalidade em Imagens para Redes Neurais
